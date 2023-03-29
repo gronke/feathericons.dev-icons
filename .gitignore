@@ -1,8 +1,0 @@
-.netlify/
-dist/
-node_modules/
-
-.DS_Store
-
-notes.md
-todos.md
